@@ -17,7 +17,7 @@ A sleek and modern web application that allows you to search and view GitHub use
 
 ## 🚀 Live Demo
 
-[Add your live demo link here]
+[Try Dev Explorer Live](https://bairariyakhushal.github.io/Dev-Explorer/)
 
 ## 🛠️ Technologies Used
 
